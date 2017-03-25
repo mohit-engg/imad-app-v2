@@ -16,6 +16,16 @@ body {
     font-weight: bold;
 }
 
+        
+        .container{
+            max-width:800px;
+            margin:0 auto;
+            color:grey;
+            font-size:200%;
+            font-family:times new roman;
+        }
+    
+
 .img-medium {
     height: 200px;
 }
